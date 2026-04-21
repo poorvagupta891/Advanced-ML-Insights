@@ -1,0 +1,9 @@
+Advanced ML Specialization: Strategy & Insights
+Course 2: Advanced Learning Algorithms
+Week 1: Digit Recognition (0 vs 1)
+
+The Tech: Built a three-layer neural network (400 units → 25 units → 15 units → 1 unit) using TensorFlow and Sigmoid activation.
+
+The Logic: Implemented manual Forward Propagation in NumPy to validate the underlying mathematical architecture of neural layers.
+
+Business Application: This serves as a foundation for Automated Binary Classification. In a business context, this architecture can be deployed for automated "Pass/Fail" quality audits in supply chains or "Fraud/Safe" transaction monitoring in fintech.
